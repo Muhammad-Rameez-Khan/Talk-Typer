@@ -12,7 +12,7 @@ Digi Talk Typer is a web application designed to streamline speech-to-text trans
 ## Installation
 1. **Clone Repository**: Clone this repository to your local machine using Git.
 
-git clone https://github.com/your_username/talk-typer.git
+git clone https://github.com/Muhammad-Rameez-Khan/Talk-Typer
 
 2. **Open HTML File**: Open the `index.html` file in your preferred web browser.
 
